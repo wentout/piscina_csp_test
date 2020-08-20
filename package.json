@@ -1,0 +1,19 @@
+{
+  "name": "piscina_csp",
+  "version": "1.0.0",
+  "description": "testing project",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "js-csp": "^1.0.1",
+    "piscina": "^1.6.3"
+  }
+}
